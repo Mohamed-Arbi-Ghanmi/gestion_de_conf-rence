@@ -1,1 +1,1 @@
-# gestion_de_conf-rence
+L'objectif de ce projet est de développer une application de gestion de conférence scientifique qui facilite la coordination et l'organisation de tels événements. L'application sera utilisée par l'administrateur (le président de la conférence), les membres du comité scientifique et les utilisateurs (participants, auteurs, etc.).
